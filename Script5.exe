@@ -1,10 +1,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/StrokeThePea/GelatekReanimate/refs/heads/main/Main.lua"))()
 task.wait(7)
-game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda and say -net i aint saying it")
+game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda and say -net i aint saying it :]")
 task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
-local PRIVATE_MODEL_ID = 90479679975874  -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
+local PRIVATE_MODEL_ID = 103025314341354  -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
     Title = "Eunoia is here to help ur day",
