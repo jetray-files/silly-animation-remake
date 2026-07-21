@@ -4,7 +4,7 @@ game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation 
 task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Gaze-stuff/refs/heads/main/Fe%20Better%3F%20Movement"))()
 
-local PRIVATE_MODEL_ID = 73848331257645
+local PRIVATE_MODEL_ID = 98921668658700
 -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
