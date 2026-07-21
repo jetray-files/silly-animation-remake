@@ -3,7 +3,7 @@ task.wait(7)
 game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda (citizen) :]")
 task.wait(1)
 
-local PRIVATE_MODEL_ID = 98921668658700
+local PRIVATE_MODEL_ID = 119611277910324
 -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
