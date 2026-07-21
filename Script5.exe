@@ -1,6 +1,6 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/StrokeThePea/GelatekReanimate/refs/heads/main/Main.lua"))()
 task.wait(7)
-game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda :]")
+game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda (citizen) :]")
 task.wait(1)
 
 local PRIVATE_MODEL_ID = 98921668658700
