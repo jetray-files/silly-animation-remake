@@ -7,8 +7,8 @@ local PRIVATE_MODEL_ID = 98921668658700
 -- CHANGE THIS TO YOUR PRIVATE/Public MODEL ID
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "Eunoia is here to help ur day",
-    Text = "It detects if the model has a run/walk/idle/jump/crouch/slide anim and silly animation remake :]",
+    Title = "yay wait",
+    Text = "detecting silly animation remake :]",
     Duration = 10
 })
 
@@ -174,8 +174,8 @@ Player.CharacterAdded:Connect(function(char)
 end)
 
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "Anim Player by CrypticCoderX",
-    Text = "This script detects If the model has a run or crouch or slide/walk/idle/jump anim",
+    Title = "lets go",
+    Text = "not by me but animation by me :]",
     Duration = 12
 })
 
