@@ -1,3 +1,5 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jetray-files/some-reanimate-for-silly-animation-/refs/heads/main/reanimate"))()
+task.wait(7)
 game:GetService("TextChatService").TextChannels.RBXGeneral:SendAsync("animation by ggsoda (citizen) :]")
 task.wait(1)
 
